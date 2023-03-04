@@ -14,5 +14,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ytonydotcom](https://www.frontendmentor.io/profile/tonydotcom)
 - Twitter - [@antonyzao](https://www.twitter.com/antonyzao)
